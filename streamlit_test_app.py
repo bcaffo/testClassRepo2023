@@ -26,3 +26,5 @@ else :
          np.random.randn(np.round(nsims), 2),
          columns=['a', 'b'])
     st.line_chart(chart_data)
+
+    
